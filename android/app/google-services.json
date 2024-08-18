@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620636693215",
+    "project_id": "petani-6df0b",
+    "storage_bucket": "petani-6df0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620636693215:android:e174f5c15cfe6c7c2d3f6a",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_kopi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZWw8o3TPtLyTPV9DaxpiAsZfNDAjiCsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
